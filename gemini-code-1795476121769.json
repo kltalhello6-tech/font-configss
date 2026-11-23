@@ -1,0 +1,59 @@
+{
+  "fonts": [
+    {
+      "name": "Vanilla Caramel",
+      "version": "1.000",
+      "copyright": "Vanilla Caramel Appleberry Studio 2021. All Rights Reserved",
+      "format": "OTTO / CFF",
+      "features": {
+        "latn": {
+          "kern": true,
+          "liga": true
+        }
+      },
+      "character_set": {
+        "basic_latin": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~",
+        "extended_glyphs": [
+          "hyphenminus",
+          "Acircumflex",
+          "Ecircumflex",
+          "Icircumflex",
+          "Ocircumflex",
+          "Ucircumflex",
+          "acircumflex",
+          "ecircumflex",
+          "icircumflex",
+          "ocircumflex",
+          "ucircumflex",
+          "idotless",
+          "grave",
+          "combacute",
+          "combcircumflex",
+          "combtilde",
+          "combdotaccent",
+          "combdieresis",
+          "combring",
+          "combcaron",
+          "combcedilla",
+          "frenchfrancsign",
+          "lirasign",
+          "pesetasign",
+          "euro",
+          "almostequal",
+          "lessthanorequal",
+          "greaterthanorequal",
+          "bb",
+          "cc",
+          "dd",
+          "ee",
+          "gg",
+          "ll",
+          "mm",
+          "nn",
+          "ss",
+          "tt"
+        ]
+      }
+    }
+  ]
+}
